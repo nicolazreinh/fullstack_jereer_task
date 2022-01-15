@@ -1,0 +1,38 @@
+#button-post{
+    padding: 10px;
+    width: 150px;
+    background-color: transparent;
+    font-size: 16px;
+    border: 3px solid '#7eabf2';
+    color: '#7eabf2';
+    border-radius: 25px;
+    text-decoration: none;
+    text-align: center;
+    transition: ease-in-out 0.3s;
+    outline: 0;
+}
+
+#button-post:hover{
+        background-color: '#7eabf2';
+        color: '#566782';
+        cursor: pointer;
+    }
+
+.inp{
+    width: 200px;
+    padding: 15px;
+    font-size: 17px;
+    letter-spacing: 1px;
+    color: '#153361';
+    background-color: '#c0d1eb';
+    border: 0;
+    outline: 0;
+    display: block;
+    margin: 5px auto 10px auto;
+    transition: ease-in-out 0.3s;
+}
+
+.lbl{
+    text-align: center;
+    font-size: 28px;
+}
